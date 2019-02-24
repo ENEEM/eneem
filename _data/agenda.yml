@@ -1,0 +1,82 @@
+- monday:
+  date: 15 Abril
+  dayOfWeek: Segunda feira
+  activities:
+    - name: Sessão de Abertura
+      time: 14:00-15:30
+      duration: half-hour-and-half
+      icon:
+      about:
+      type:
+      place:
+
+- tuesday:
+  date: 16 Abril
+  dayOfWeek: Terça feira
+  activities:
+    - name: Workshop Desmontagem de um Motor
+      speaker: prof. Francisco Brito
+      type:
+      time: 14:00-15:00
+      duration: one-hour
+      icon:
+      about: O workshop consiste na desmontagem de um motor. Para além disso haverá uma apresentação sobre como funciona um motor e estratégias para torná-lo mais potente, eficiente e limpo. Serão dados como exemplos alguns dos trabalhos que se têm feito na universidade e outros da indústria automóvel.
+      place: LabMoTa
+
+    - name: Desenvolvimento de robôs móveis e autónomos
+      speaker: prof. Fernando Ribeiro
+      type:
+      time: 14:00-15:00
+      duration: one-hour
+      icon:
+      about: Serão apresentados um conjunto de projetos de robôs móveis e autónomos desenvolvidos no laboratório de robótica, destacando algumas dificuldades encontradas.
+      place:
+
+    - name: Do Currículo à Entrevista
+      speaker: Carina Mano
+      enterprise: Higiworks
+      enterpriseURL: https://www.higiworks.pt/
+      type:
+      time: 16:30-18:30
+      duration: two-hours
+      icon:
+      about: Com o workshop pretende-se aprender como elaborar um currículo de sucesso, elevar a confiança numa entrevista de trabalho, compreender que erros não se deve cometer e aprender mais sobre marketing pessoal.
+      place:
+
+- wednesday:
+  date: 17 Abril
+  dayOfWeek: Quarta feira
+  activities:
+
+    - name: Biomecânica, Ferramenta para Melhorar o Bem-Estar e Qualidade de Vida
+      speaker: Prof. Paulo Flores
+      type:
+      time: 14:00-15:00
+      duration: one-hour
+      icon:
+      about: Palestra que pretende abordar temas como "Biomecânica, O papel do Engenheiro Mecânico", "Projetos de Soluções Médicas em Biomecânica", "Dispositivos Médicos para Diagnóstico a Reabilitação", bem como apresentar e discutir casos de estudo.
+      place:
+
+    - name: Processos, Os Novos Paradigmas das Organizações
+      speaker: César Costa
+      type:
+      time: 15:00-16:00
+      duration: one-hour
+      icon:
+      about: O workshop "Processos, Os Novos Paradigmas das Organizações" pretende ajudar-te a perceber uma das principais necessidades das organizações, Gerir Processos. A gestão de processos envolve um relacionamento entre todas as áreas das organizações e que requer um conhecimento intrínseco sobre as particularidades do seu funcionamento na busca ótima da racionalização e otimização de recursos/custos. Assim, pretende-se que no fim do workshop os participantes tenham resposta para, "Gestão de processos, o que é e o que visa?", "Gestor de processos, formação e perfil", 2A importância e o impacto da gestão de processos numa organização", "O futuro dos processos e das empresas".
+
+      place:
+
+    - name: Workshop de Fundição
+      speaker: Prof. Hélder Puga
+      type:
+      time: 14:00-16:30
+      duration: one-hour
+      icon:
+      about:  Neste workshop pretende-se obter uma visão geral do panorama nacional da tecnologia da fundição, compreender quais os diferentes processos de fundição, nomeadamente a fundição por modelo perdido, e executar um caso prático.
+      place:
+
+- thursday:
+  date: 18 Abril
+  dayOfWeek: Quinta feira
+  activities:

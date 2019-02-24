@@ -1,0 +1,36 @@
+# ============================================================================ #
+# Navbar
+# ============================================================================ #
+
+- name: Home
+  link: "#header-wrap"
+
+- name: Sobre
+  link: "#counter"
+
+- name: Equipa
+  link: "#team"
+
+- name: Agenda
+  link: "#agenda_counter"
+
+- name: Atividades
+  link: "#activities"
+
+#- name: Notícias
+#  link: "#schedules"
+
+#- name: Museu
+#  link: "#gallery"
+
+#- name: Torneio
+#  link: "#pricing"
+
+#- name: CoderDojo
+#  link: "#coderdojo"
+
+- name: Parceiros
+  link: "#sponsors"
+
+- name: Contactos
+  link: "#footer"
