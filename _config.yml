@@ -6,7 +6,7 @@ description     : |
   Encontro Nacional de Estudantes de Engenharia Mecânica realiza-se de 15 a 19 de abril de 2019 em Guimarães, na Universidade do Minho
 keywords        : [NaMecUM, jekyll, ENEEM, Github, Universidade do Minho, Engenharia Mecânica]
 logo            : logo2.png
-url             : ""
+url             : "www.eneem.pt"
 baseurl         :
 
 # Google Analytics
