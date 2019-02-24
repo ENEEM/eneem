@@ -1,0 +1,344 @@
+#agenda
+{
+	background-color: #222;
+  background-position: center center;
+  -webkit-background-size: cover;
+  background-repeat: none;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  padding-top: 50px;
+  background-attachment: fixed;
+}
+
+#schedule
+{
+	width: 100%;
+	background-color: #222;
+	border-spacing: 8px;
+	padding: 6px;
+	text-align: center;
+	position: center center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+    th
+		{
+			color: #fafafa;
+      border: 1px solid #34333B;
+      background-color: transparentize(#EF3E34, 0.1);
+      font-size: 1em;
+      text-align: center;
+		}
+
+		.date
+		{
+			color: $light-red;
+			font-weight: bold;
+		}
+
+
+    .hour
+		{
+			color: #fafafa;
+      background-color: #222;
+      border: 1px solid #222;
+      font-size: 0.5em;
+		}
+
+
+    .activity
+		{
+			color: $light-red;
+      background-color: transparentize(#E3E1E4, 0.2);
+      border: 1px solid #34333B;
+			border-radius: 4px;
+      font-size: 0.5em;
+			&:hover
+			{
+				background-color: $dark-red;
+				color: $white;
+				opacity: 1;
+			}
+
+		}
+
+		.break
+		{
+			font-size: 0.5em;
+		}
+    .project
+		{
+			color: #fafafa;
+      background-color: transparentize(#34333B,0.1);
+      border: 1px solid #34333B;
+      font-size: 0.9em;
+		}
+
+
+	#activities
+	{
+		background-attachment: fixed;
+	  background-position: center center;
+	  -webkit-background-size: cover;
+	  background-repeat: none;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-color: #222;
+	  background-attachment: fixed;
+	}
+
+.Act-wrapper
+{
+	display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.Act-column
+{
+	padding: 10px 10px 10px 10px;
+  background-color: #222;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 5px 10px 50px 10px;
+}
+
+.activity-box
+{
+	background-color: $light-red;
+  float: none;
+  margin: 10px auto;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+.activity-img
+{
+	img
+	{
+		max-width: 100%;
+    max-height: 100%;
+    height: auto;
+    border: 3px solid white;
+    margin-bottom: 5px;
+	}
+}
+.activity-info
+{
+	margin-top: 5px;
+	& p
+	{
+		margin: 0;
+		text-transform: uppercase;
+		font-size: 12px;
+	}
+	div
+	{
+		margin-bottom: 5px;
+	}
+
+}
+
+.activity-type
+{
+	text-transform: uppercase;
+  text-align: center;
+  & p
+	{
+		font-size: 12px;
+	}
+}
+
+.activity-filler
+{
+	margin: 50px;
+}
+
+.activity-enterprise
+{
+	display: block;
+  font-weight: bold;
+}
+
+
+.activity-datetime
+{
+	text-align: left;
+  color: white;
+  margin-bottom: 2px;
+}
+
+.activity-speaker, .activity-datetime, .activity-datetime
+{
+	div
+	{
+		padding-left: 0;
+    padding-right: 0;
+	}
+
+   i
+	 {
+		 margin-right: 5px;
+     font-size: 12px;
+     color: $white;
+	 }
+
+   span
+	 {
+		  margin-right: 5px;
+	 }
+
+   a
+	 {
+		 &:hover, &:focus
+		 {
+			 color: #fff;
+			 text-decoration: underline;
+		 }
+
+	 }
+
+}
+
+
+.activity-text
+{
+	width: 100%;
+  margin-top: 10px;
+  text-align: justify;
+  align-self: flex-start;
+}
+
+
+.center
+{
+	text-align: center;
+  margin: 0px 0px 50px 0px;
+}
+
+.activity-title
+{
+	text-transform: uppercase;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  &::after
+	{
+		content: "";
+    display: table;
+    clear: both;
+    width: 80%;
+    max-width: 170px;
+    margin: 0 auto;
+    border-bottom: 4px solid #3c3e44;
+	}
+
+  @media (max-width: 991px)
+	{
+		font-size: 20px;
+    line-height: 1.6;
+	}
+
+}
+
+
+.acthour
+{
+	font-size: 14px;
+  color: rgb(33, 128, 249);
+}
+
+.actplace
+{
+	color: #fff;
+  font-weight: bold;
+  font-size: 14px;
+  float: left;
+}
+
+
+.actname
+{
+	text-transform: uppercase;
+  font-weight: bold;
+  font-size: 18px;
+  color: $white;
+  letter-spacing: 1px;
+  text-align: center;
+  &::after
+	{
+		content: "";
+    display: table;
+    clear: both;
+    width: 80%;
+    max-width: 170px;
+    margin: 0 auto;
+    border-bottom: 4px solid #fff;
+	}
+
+}
+
+
+
+.acttext
+{
+	margin-top: 30px;
+  color: #fff;
+  font-weight: bold;
+  font-size: 14px;
+  padding: 0 0 0 0;
+  float: left;
+  text-align: justify;
+}
+
+
+.activities-container
+{
+	margin-bottom: 20px;
+  color: white;
+  margin-bottom: 5px;
+  margin-top: 25px;
+  max-height: 500px;
+  text-align: center;
+  img
+	{
+		max-width: 125px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+	}
+
+  p::before
+	{
+    font-weight: bold;
+    font-size: 16px;
+	}
+  h1
+	{
+    text-transform: uppercase;
+    font-size: 14px;
+	}
+}
+
+
+.activities-description
+{
+  margin: 25px;
+}
+
+.activities-container
+{
+  text-align: center;
+}
