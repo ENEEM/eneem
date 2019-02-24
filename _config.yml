@@ -1,0 +1,62 @@
+# Site Settings
+locale          : "pt-PT"
+title           : "ENEEM 2019"
+title_separator : "•"
+description     : |
+  Encontro Nacional de Estudantes de Engenharia Mecânica realiza-se de 15 a 19 de abril de 2019 em Guimarães, na Universidade do Minho
+keywords        : [NaMecUM, jekyll, ENEEM, Github, Universidade do Minho, Engenharia Mecânica]
+logo            : logo2.png
+url             : ""
+baseurl         :
+
+# Google Analytics
+analytics:
+
+# Social
+email        : geral@eneem.pt
+facebook     :
+github       :
+gitlab       :
+google_plus  :
+instagram    :
+linkedin     :
+twitter      :
+youtube      :
+
+# Reading Files
+encoding: "utf-8"
+include:
+  - _pages
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.txt
+  - README.md
+  - CHANGELOG.md
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
