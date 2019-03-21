@@ -3,7 +3,7 @@
   dayOfWeek: Segunda feira
   activities:
     - name: Sessão de Abertura
-      time: 14:00-15:30
+      time: 
       duration: half-hour-and-half
       icon:
       about:
@@ -17,7 +17,7 @@
     - name: Workshop Desmontagem de um Motor
       speaker: prof. Francisco Brito
       type:
-      time: 14:00-15:00
+      time: 
       duration: one-hour
       icon:
       about: O workshop consiste na desmontagem de um motor. Para além disso haverá uma apresentação sobre como funciona um motor e estratégias para torná-lo mais potente, eficiente e limpo. Serão dados como exemplos alguns dos trabalhos que se têm feito na universidade e outros da indústria automóvel.
@@ -26,7 +26,7 @@
     - name: Desenvolvimento de robôs móveis e autónomos
       speaker: prof. Fernando Ribeiro
       type:
-      time: 14:00-15:00
+      time: 
       duration: one-hour
       icon:
       about: Serão apresentados um conjunto de projetos de robôs móveis e autónomos desenvolvidos no laboratório de robótica, destacando algumas dificuldades encontradas.
@@ -37,7 +37,7 @@
       enterprise: Higiworks
       enterpriseURL: https://www.higiworks.pt/
       type:
-      time: 16:30-18:30
+      time: 
       duration: two-hours
       icon:
       about: Com o workshop pretende-se aprender como elaborar um currículo de sucesso, elevar a confiança numa entrevista de trabalho, compreender que erros não se deve cometer e aprender mais sobre marketing pessoal.
@@ -51,7 +51,7 @@
     - name: Biomecânica, Ferramenta para Melhorar o Bem-Estar e Qualidade de Vida
       speaker: Prof. Paulo Flores
       type:
-      time: 14:00-15:00
+      time:
       duration: one-hour
       icon:
       about: Palestra que pretende abordar temas como "Biomecânica, O papel do Engenheiro Mecânico", "Projetos de Soluções Médicas em Biomecânica", "Dispositivos Médicos para Diagnóstico a Reabilitação", bem como apresentar e discutir casos de estudo.
@@ -60,20 +60,64 @@
     - name: Processos, Os Novos Paradigmas das Organizações
       speaker: César Costa
       type:
-      time: 15:00-16:00
+      time: 
       duration: one-hour
       icon:
       about: O workshop "Processos, Os Novos Paradigmas das Organizações" pretende ajudar-te a perceber uma das principais necessidades das organizações, Gerir Processos. A gestão de processos envolve um relacionamento entre todas as áreas das organizações e que requer um conhecimento intrínseco sobre as particularidades do seu funcionamento na busca ótima da racionalização e otimização de recursos/custos. Assim, pretende-se que no fim do workshop os participantes tenham resposta para, "Gestão de processos, o que é e o que visa?", "Gestor de processos, formação e perfil", 2A importância e o impacto da gestão de processos numa organização", "O futuro dos processos e das empresas".
-
       place:
 
     - name: Workshop de Fundição
       speaker: Prof. Hélder Puga
       type:
-      time: 14:00-16:30
+      time: 
       duration: one-hour
       icon:
       about:  Neste workshop pretende-se obter uma visão geral do panorama nacional da tecnologia da fundição, compreender quais os diferentes processos de fundição, nomeadamente a fundição por modelo perdido, e executar um caso prático.
+      place:
+      
+    - name: Se pudesse vendia a minha mãe!
+      speaker: Juliana Viegas
+      type:
+      time: 
+      duration: one-hour
+      icon:
+      about:  Todos nós vendemos alguma coisa todos os dias: produtos, serviços, ideias, imagem. Sempre que estamos a tentar convencer alguém de alguma coisa, estamos a “vender”. O workshop “se pudesse vendia a minha mãe!” vai ajudar-te a compreenderes as etapas essenciais de qualquer processo de venda e a desenvolveres as tuas selling skills para te tornares mais convincente e eficaz no teu futuro profissional. Do que se vai falar? "Posso vender a minha mãe? – perceber quais são as principais barreiras a uma venda.", "É como o ano, tem 4 estações – As 4 barreiras e as 4 competências chave num processo de venda." e "Vende-te a ti! – aprende a utilizar as tuas selling skills para te saberes vender ao mercado de trabalho."
+      place:
+     
+    - name: Integration of management systems
+      speaker: Piotr Kafel
+      type:
+      time: 
+      duration: one-hour
+      icon:
+      about: The lecture will include requirements relating to popular management systems and its integration. It will also include description of accreditation and certification process, EU/national regulation and legislation associated with of different management systems in specific sectors e.g. food sector or military sector. Important part of the lecture will contain the relations and differences between management system, product and process certification and the minimal management requirements in product certification. 
+      place:
+     
+    - name: Arduino: Servos, LEDS RGB. Como pôr o Arduino a controlar os nossos circuitos
+      speaker: Sérgio Branco
+      type:
+      time: 
+      duration: one-hour
+      icon:
+      about: O Arduino é ainda hoje uma das melhores plataformas de desenvolvimento do mundo. Fácil de usar e de criar pequenas aplicações, não há melhor maneira de entrar no mundo da programação e da eletrónica. Neste workshop iremos dar-te a conhecer como o Arduino funciona, alguns conceitos básicos de eletrónica e programação e fazer o Arduino controlar servos motores, LEDS RGB e perceber como tudo isto é possível.
+      place:
+      
+    - name: Como Falar em Público
+      speaker: Prof. Elsa Costa e Silva
+      type:
+      time: 
+      duration: one-hour
+      icon:
+      about: Este workshop procura aprofundar técnicas de comunicação para um público, abordando em primeiro lugar o que é a comunicação, como comunicar com maior eficácia, que "armadilhas" evitar e que atitudes tomar para melhorar a ligação com a "audiência". Haverá exercícios práticos, durante os quais os participantes serão convidados a apresentarem-se. Estas apresentações serão gravadas e comentadas.
+      place:
+      
+    - name: Resolução Criativa de Problemas
+      speaker: Paulo Silva
+      type:
+      time: 
+      duration: one-hour
+      icon:
+      about: Achas que não és criativo? Estás habituado a ouvir dizer que há pessoas criativas e pessoas que não são criativas? Acreditas no episódio da maçã que caiu sobre a cabeça de Isaac Newton que o levou a formular a teoria da gravidade? E se te dissermos que estas ideias são mitos? Todos temos potencial criativo e, neste workshop, vamos ajudar-te a utilizar o teu, através de técnicas e ferramentas testadas e validadas. Já agora, sabias que a criatividade é uma das competências mais relevantes para o século XXI?
       place:
 
 - thursday:
