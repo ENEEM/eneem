@@ -93,7 +93,7 @@
       about: The lecture will include requirements relating to popular management systems and its integration. It will also include description of accreditation and certification process, EU/national regulation and legislation associated with of different management systems in specific sectors e.g. food sector or military sector. Important part of the lecture will contain the relations and differences between management system, product and process certification and the minimal management requirements in product certification. 
       place:
      
-    - name: Arduino: Servos, LEDS RGB. Como pôr o Arduino a controlar os nossos circuitos
+    - name: Arduino, Servos, LEDS RGB. Como pôr o Arduino a controlar os nossos circuitos
       speaker: Sérgio Branco
       type:
       time: 
