@@ -15,7 +15,7 @@
   dayOfWeek: Terça feira
   activities:
     - name: Workshop Desmontagem de um Motor
-      speaker: prof. Francisco Brito
+      speaker: Professor Francisco Brito
       type:
       time: 
       duration: one-hour
@@ -24,7 +24,7 @@
       place: LabMoTa
 
     - name: Desenvolvimento de robôs móveis e autónomos
-      speaker: prof. Fernando Ribeiro
+      speaker: Professor Fernando Ribeiro
       type:
       time: 
       duration: one-hour
@@ -49,7 +49,7 @@
   activities:
 
     - name: Biomecânica, Ferramenta para Melhorar o Bem-Estar e Qualidade de Vida
-      speaker: Prof. Paulo Flores
+      speaker: Professor Paulo Flores
       type:
       time:
       duration: one-hour
@@ -67,7 +67,7 @@
       place:
 
     - name: Workshop de Fundição
-      speaker: Prof. Hélder Puga
+      speaker: Professor Hélder Puga
       type:
       time: 
       duration: one-hour
@@ -118,6 +118,42 @@
       duration: one-hour
       icon:
       about: Achas que não és criativo? Estás habituado a ouvir dizer que há pessoas criativas e pessoas que não são criativas? Acreditas no episódio da maçã que caiu sobre a cabeça de Isaac Newton que o levou a formular a teoria da gravidade? E se te dissermos que estas ideias são mitos? Todos temos potencial criativo e, neste workshop, vamos ajudar-te a utilizar o teu, através de técnicas e ferramentas testadas e validadas. Já agora, sabias que a criatividade é uma das competências mais relevantes para o século XXI?
+      place:
+     
+    - name: Como Inovar, Pequenos investimentos para grandes resultados
+      speaker: Engenheiro Jorge Cavaleiro
+      type:
+      time: 
+      duration: one-hour
+      icon:
+      about: A inovação está em todas as agendas onde os planos de reconhecimento da imagem e a estratégia de crescimento devem ser promovidos. No entanto, todos os discursos de dinâmica empresarial baseiam-se, frequentemente, em linhas orientadoras e conjuntos de intenções que raramente transformam na prática a verdadeira inovação. Produzir inovação pode ser caro na cabeça do investidor. Este facto reduz ou anula a capacidade real de explicitar objetivos estratégicos em planos que, existindo, ficam no papel, pela dificuldade de materializar o verdadeiro investimento em programas sustentados. A inovação é, no entanto, baseada no conhecimento, na compreensão das redes que o ligam e na instrumentalidade e valência que lhe podem ser coladas. A transferência e partilha de alertas e conceitos terão como objetivo conferir aos participantes as ferramentas, técnicas e competências que lhes permitam trabalhar organizadamente na inovação, num desafio contínuo, que conduza à sua criação, reconhecendo as suas características e os melhores caminhos para a obter com recursos economicamente sustentados.
+      place:
+     
+    - name: Trabalhar em equipa aprende-se
+      speaker: Diana Mesquita
+      type:
+      time: 
+      duration: one-hour
+      icon:
+      about: A prática profissional em Engenharia nunca antes foi tão complexa e, por isso, tão desafiadora para os futuros profissionais. O mundo espera engenheiros e engenheiras com espírito inovador e crítico. O mundo espera engenheiros e engenheiras com capacidade de resolver problemas de forma criativa. O mundo espera engenheiros e engenheiras que consigam comunicar ideias, soluções, resultados. O mundo espera engenheiros e engenheiras que sejam capazes de competir, mas também de colaborar. Este workshop pretende, por isso, contribuir para aquilo que o mundo espera. Numa sessão de natureza prática, interativa e colaborativa, e de modo a dar a conhecer o conceito das Integradoras presente no curso de Engenharia Mecânica da Universidade do Minho, pretende-se explorar abordagens e ferramentas que permitem apoiar a gestão e o desenvolvimento de equipas de trabalho na resolução de problemas de Engenharia. 
+      place:
+      
+    - name: Tribologia, âmbito e importância, conceitos e abordagem de casos práticos
+      speaker: Professor José Gomes
+      type:
+      time: 
+      duration: one-hour
+      icon:
+      about: Âmbito da Tribologia. Breve nota histórica. A importância da Tribologia. Impactos económicos e sociais. A Tribologia na Universidade do Minho. Conceitos de Tribologia. Apresentação de alguns exemplos de aplicação de estudos de caracterização tribológica.
+      place:
+    
+    - name: Se montares bem nunca mais queres outra coisa...
+      speaker: Professor Luís Alves
+      type:
+      time: 
+      duration: one-hour
+      icon:
+      about: Alunos serão desafiados a montar. Em grupo. E quem montar bem nunca mais vai querer outra coisa. Que coisa? Bom, para o descobrires vais ter que participar. Traz vontade de fazer. Como um verdadeiro mecânico. Ah! E espero que gostes de café!
       place:
 
 - thursday:
