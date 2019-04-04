@@ -16,6 +16,8 @@
   activities:
     - name: Workshop Desmontagem de um Motor
       speaker: Prof. Francisco Brito
+      enterprise: DEM
+      enterpriseURL: http://www.dem.uminho.pt/
       type:
       time: 
       duration: one-hour
@@ -25,6 +27,8 @@
 
     - name: Desenvolvimento de robôs móveis e autónomos
       speaker: Prof. Fernando Ribeiro
+      enterprise: DEI
+      enterpriseURL: https://www.dei.uminho.pt/
       type:
       time: 
       duration: one-hour
@@ -50,6 +54,8 @@
 
     - name: Biomecânica, Ferramenta para Melhorar o Bem-Estar e Qualidade de Vida
       speaker: Prof. Paulo Flores
+      enterprise: DEM
+      enterpriseURL: http://www.dem.uminho.pt/
       type:
       time:
       duration: one-hour
@@ -60,6 +66,8 @@
     - name: Processos, Os Novos Paradigmas das Organizações
       speaker: César Costa
       type:
+      enterprise: Grupo LusoVerniz
+      enterpriseURL: http://www.lusoverniz.pt/
       time: 
       duration: one-hour
       icon:
@@ -68,6 +76,8 @@
 
     - name: Workshop de Fundição
       speaker: Prof. Hélder Puga
+      enterprise: DEM
+      enterpriseURL: http://www.dem.uminho.pt/
       type:
       time: 
       duration: one-hour
@@ -77,6 +87,8 @@
       
     - name: Se pudesse vendia a minha mãe!
       speaker: Juliana Viegas
+      enterprise: Inspiring Future
+      enterpriseURL: https://inspiringfuture.pt/
       type:
       time: 
       duration: one-hour
@@ -86,6 +98,7 @@
      
     - name: Integration of management systems
       speaker: Piotr Kafel
+      enterprise: Department of Quality Management of Cracow University of Economics
       type:
       time: 
       duration: one-hour
@@ -104,6 +117,8 @@
       
     - name: Como Falar em Público
       speaker: Prof. Elsa Costa e Silva
+      enterprise: ICS
+      enterpriseURL: http://www.comunicacao.uminho.pt/
       type:
       time: 
       duration: one-hour
@@ -140,6 +155,8 @@
       
     - name: Tribologia, âmbito e importância, conceitos e abordagem de casos práticos
       speaker: Prof. José Gomes
+      enterprise: DEM
+      enterpriseURL: http://www.dem.uminho.pt/
       type:
       time: 
       duration: one-hour
@@ -149,6 +166,8 @@
     
     - name: Se montares bem nunca mais queres outra coisa...
       speaker: Prof. Luís Alves
+      enterprise: DEM
+      enterpriseURL: http://www.dem.uminho.pt/
       type:
       time: 
       duration: one-hour
@@ -158,6 +177,8 @@
       
     - name: Visita ao Pólo de Inovação em Engenharia de Polímeros (PIEP)
       speaker: 
+      enterprise: PIEP
+      enterpriseURL: http://www.piep.pt/
       type:
       time: 
       duration: one-hour
@@ -168,6 +189,8 @@
     - name: Dicas para uma carreira
       speaker: João Leite
       type:
+      enterprise: KSB, Bombas e Válvulas
+      enterpriseURL: https://www.ksb.com/ksb-pt/
       time: 
       duration: one-hour
       icon:
