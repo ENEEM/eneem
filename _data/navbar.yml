@@ -17,6 +17,9 @@
 - name: Atividades
   link: "#activities"
 
+- name: Oradores
+  link: "#speakers"
+
 #- name: Notícias
 #  link: "#schedules"
 
@@ -29,8 +32,8 @@
 #- name: CoderDojo
 #  link: "#coderdojo"
 
-- name: Parceiros
-  link: "#sponsors"
+#- name: Parceiros
+#  link: "#sponsors"
 
 - name: Contactos
   link: "#footer"
