@@ -155,6 +155,24 @@
       icon:
       about: Alunos serão desafiados a montar. Em grupo. E quem montar bem nunca mais vai querer outra coisa. Que coisa? Bom, para o descobrires vais ter que participar. Traz vontade de fazer. Como um verdadeiro mecânico. Ah! E espero que gostes de café!
       place:
+      
+    - name: Visita ao Pólo de Inovação em Engenharia de Polímeros (PIEP)
+      speaker: 
+      type:
+      time: 
+      duration: one-hour
+      icon:
+      about: O PIEP é uma Entidade privada sem fins lucrativos focada numa vertente específica de investigação, desenvolvimento e inovação. Fundado em 2001 por iniciativa industrial, em colaboração com a Universidade do Minho e com o Governo Nacional representado pelo IAPMEI, o PIEP encontra-se sediado no Campus de Azurém (Guimarães) da Universidade do Minho. O PIEP reúne um conjunto de capacidades integradas e interligadas que servem o propósito fundamental da sua existência: o de suportar a Indústria nacional e internacional ao nível do desenvolvimento de materiais, engenharia, processos produtivos e testes. Poderão visitar os vários laboratórios do PIEP, nomeadamente, Engenharia, Reologia, Caracterização estrutural, Química, LDS, Acondicionamento de amostras, Ensaios mecânicos, Processamento (Compósitos), Processamento (Extrusão) e Processamento (Injecção)
+      place: PIEP
+      
+    - name: Dicas para uma carreira
+      speaker: João Leite
+      type:
+      time: 
+      duration: one-hour
+      icon:
+      about: João Leite, engenheiro mecânico (IST, 1986) e director geral da KSB, Bombas e Válvulas, SA, apresenta as principais competências que lhe foram necessárias para percorrer uma carreira profissional de 30 anos (ele tem 56), desde técnico de uma empresa de controlo de qualidade até director geral da filial Portuguesa de uma multinacional alemã, filial essa que tinha 3 colaboradores e facturava 50 mil Euros quando ele entrou (em 1989), e actualmente tem 20 colaboradores e factura 6 milhões de euros. Nessa interactiva apresentação, ele aborda temas pouco habituais, como a espiritualidade, as viagens, a fiabilidade, a cultura alemã, a tarefa mais difícil de um gestor, o impacto de um gestor, bem como apresenta ideias pouco habituais sobre temas comuns, como a Qualidade, e dá dicas concretas e práticas sobre como desenvolver as necessárias competências.
+      place:
 
 - thursday:
   date: 18 Abril
