@@ -15,7 +15,7 @@
   dayOfWeek: Terça feira
   activities:
     - name: Workshop Desmontagem de um Motor
-      speaker: Professor Francisco Brito
+      speaker: Prof. Francisco Brito
       type:
       time: 
       duration: one-hour
@@ -24,7 +24,7 @@
       place: LabMoTa
 
     - name: Desenvolvimento de robôs móveis e autónomos
-      speaker: Professor Fernando Ribeiro
+      speaker: Prof. Fernando Ribeiro
       type:
       time: 
       duration: one-hour
@@ -49,7 +49,7 @@
   activities:
 
     - name: Biomecânica, Ferramenta para Melhorar o Bem-Estar e Qualidade de Vida
-      speaker: Professor Paulo Flores
+      speaker: Prof. Paulo Flores
       type:
       time:
       duration: one-hour
@@ -67,7 +67,7 @@
       place:
 
     - name: Workshop de Fundição
-      speaker: Professor Hélder Puga
+      speaker: Prof. Hélder Puga
       type:
       time: 
       duration: one-hour
@@ -121,7 +121,7 @@
       place:
      
     - name: Como Inovar, Pequenos investimentos para grandes resultados
-      speaker: Engenheiro Jorge Cavaleiro
+      speaker: Eng. Jorge Cavaleiro
       type:
       time: 
       duration: one-hour
@@ -139,7 +139,7 @@
       place:
       
     - name: Tribologia, âmbito e importância, conceitos e abordagem de casos práticos
-      speaker: Professor José Gomes
+      speaker: Prof. José Gomes
       type:
       time: 
       duration: one-hour
@@ -148,7 +148,7 @@
       place:
     
     - name: Se montares bem nunca mais queres outra coisa...
-      speaker: Professor Luís Alves
+      speaker: Prof. Luís Alves
       type:
       time: 
       duration: one-hour
