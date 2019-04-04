@@ -196,6 +196,17 @@
       icon:
       about: João Leite, engenheiro mecânico (IST, 1986) e director geral da KSB, Bombas e Válvulas, SA, apresenta as principais competências que lhe foram necessárias para percorrer uma carreira profissional de 30 anos (ele tem 56), desde técnico de uma empresa de controlo de qualidade até director geral da filial Portuguesa de uma multinacional alemã, filial essa que tinha 3 colaboradores e facturava 50 mil Euros quando ele entrou (em 1989), e actualmente tem 20 colaboradores e factura 6 milhões de euros. Nessa interactiva apresentação, ele aborda temas pouco habituais, como a espiritualidade, as viagens, a fiabilidade, a cultura alemã, a tarefa mais difícil de um gestor, o impacto de um gestor, bem como apresenta ideias pouco habituais sobre temas comuns, como a Qualidade, e dá dicas concretas e práticas sobre como desenvolver as necessárias competências.
       place:
+      
+    - name: Workshop Solidworks
+      speaker: João Honório
+      type:
+      enterprise: ISICOM
+      enterpriseURL: https://isicom.pt/
+      time: 
+      duration: one-hour
+      icon:
+      about: Modelação de peça técnica e simulação estrutural da mesma com recurso ao SOLIDWORKS e o seu suplemento de Simulation. A ISICOM é um empresa tecnológica com diversas soluções para engenharia. Em soluções CAD/CAM/CAE, a ISICOM é a representante, distribuidora e formadora certificada SOLIDWORKS em Portugal. A complementar esta solução temos representação de vários Gold Partner SOLIDWORKS, como o SWOOD Design/CAM, Driveworks e Logopress. Esta são soluções especificas para determinadas indústrias. A ISICOM conta também com a representação ibérica do SolidCAM, um CAM também ele Gold Partner SOLIDWORKS e que tem vindo a revolucionar o CAM em todo o mundo com a sua solução patenteada iMachining. A completar as representações, na área da impressão 3D contamos com duas das marcas mais reconhecidas a nível mundial, são elas a 3D Systems e WASP. Solidset é a solução inteligente de automação e gestão de fabrico que a ISICOM desenvolve com uma equipa própria e já se encontra em várias áreas de fabrico de diversas fábricas da península ibérica.
+      place:
 
 - thursday:
   date: 18 Abril
