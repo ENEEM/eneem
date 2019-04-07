@@ -207,6 +207,17 @@
       icon:
       about: Modelação de peça técnica e simulação estrutural da mesma com recurso ao SOLIDWORKS e o seu suplemento de Simulation. A ISICOM é um empresa tecnológica com diversas soluções para engenharia. Em soluções CAD/CAM/CAE, a ISICOM é a representante, distribuidora e formadora certificada SOLIDWORKS em Portugal. A complementar esta solução temos representação de vários Gold Partner SOLIDWORKS, como o SWOOD Design/CAM, Driveworks e Logopress. Esta são soluções especificas para determinadas indústrias. A ISICOM conta também com a representação ibérica do SolidCAM, um CAM também ele Gold Partner SOLIDWORKS e que tem vindo a revolucionar o CAM em todo o mundo com a sua solução patenteada iMachining. A completar as representações, na área da impressão 3D contamos com duas das marcas mais reconhecidas a nível mundial, são elas a 3D Systems e WASP. Solidset é a solução inteligente de automação e gestão de fabrico que a ISICOM desenvolve com uma equipa própria e já se encontra em várias áreas de fabrico de diversas fábricas da península ibérica.
       place:
+     
+    - name: Aplicação prática de dimensionamento e selecção de grupos electrobomba, associação em paralelo
+      speaker: Raquel Silva
+      type:
+      enterprise: KSB, Bombas e Válvulas
+      enterpriseURL: https://www.ksb.com/ksb-pt/
+      time: 
+      duration: one-hour
+      icon:
+      about: 
+      place:
 
 - thursday:
   date: 18 Abril
