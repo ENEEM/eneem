@@ -26,7 +26,7 @@
 	transform: translateY(-35%);
 	display: block;
 	color: $light-red;
-	margin-top: 270px;
+	margin-top: 400px;
 	margin-bottom: 0px;
   margin-left: auto;
   margin-right: auto;
@@ -34,9 +34,20 @@
 		    position: relative;
 		    width: 40%;
 		}
+	.main-sponsor
+	{
+		position: relative;
+		width: 18%;
+		border-radius: 5px;
+	}
 		.day{
 			h1{
 				color: $dark-red;
 			}
+			h2
+			{
+				font-size: 14px;
+			}
 		}
 }
+
