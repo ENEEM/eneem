@@ -74,20 +74,51 @@
 }
 
 #sponsors{
-	background: $preset;
-	.spnsors-logo{
-		text-align: center;
-		border-radius: 4px;
-		padding: 50px;
-		margin-bottom: 30px;
-		display: inline-block;
-		border: 1px solid #ddd;
-		background: #fff;
-		-webkit-transition: all 300ms ease-in-out;
-		transition: all 300ms ease-in-out;
-	}
-	.spnsors-logo:hover{
+	background:#222;
+	margin-left: auto;
+  margin-right: auto;
+
+	.sponsors-logo:hover{
 		border-color: transparent;
 		box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.2);
 	}
+}
+
+.gold{
+	width: 30%;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	position: relative;
+	margin-left: auto;
+  margin-right: auto;
+	display: block;
+	border-radius: 8px;
+}
+.silver{
+	width: 100%;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	position: relative;
+	border-radius: 8px;
+	box-sizing: border-box;
+}
+.bronze{
+	width: 80%;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	position: relative;
+	border-radius: 8px;
+	box-sizing: border-box;
+}
+.sponsor{
+	margin-left: auto;
+  margin-right: auto;
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 50px;
+	margin-bottom: 30px;
+	font-weight: bold;
+	font-size: 20px;
+	color: #8e291a;
+	letter-spacing: 1px;
 }
