@@ -32,8 +32,8 @@
 #- name: CoderDojo
 #  link: "#coderdojo"
 
-#- name: Parceiros
-#  link: "#sponsors"
+- name: Parceiros
+  link: "#sponsors"
 
 - name: Contactos
   link: "#footer"
