@@ -218,6 +218,116 @@
       icon:
       about: Case study sobre o dimensionamento e seleção de grupos electrobomba, associação em paralelo. A equipa vencedora ganha um dia na sede da KSB (em Lisboa), incluindo formação teórica (hidráulica) e prática (desmontar uma bomba), sendo todos os custos de transporte, alojamento e alimentação por conta da KSB.
       place:
+      
+    - name: Do conceito à montagem final. Como superar desafios numa indústria à escala global
+      speaker: Miguel Nogueira
+      type:
+      enterprise: Bosch Car Multimedia 
+      enterpriseURL: https://www.bosch.pt/
+      time: 
+      duration: one-hour
+      icon:
+      about: Com este “workshop” pretende dar-se a conhecer e partilhar experiências de como desenvolver novos processos para a indústria automóvel a um nível geográfico global, com recurso a ferramentas da Bosch Car Multimédia.
+      place:
+      
+    - name: Engenharia, Soluções e Inovação
+      speaker: Gil Sousa
+      type:
+      enterprise: ESI 
+      enterpriseURL: http://www.grupo-esi.com/
+      time: 
+      duration: one-hour
+      icon:
+      about: Nesta palestra serão expostos alguns casos práticos de soluções industriais com recurso à inovação. Iremos analisar as várias fases dos projetos desde a ideia conceptual, à execução do produto final.  As apresentações incluirão processos relacionados com diferentes sectores (metalomecânica, cortiça, médica, plásticos, cerâmica, madeira) e aplicação de conceitos Indústria 4.0.
+      place:
+      
+    - name: Visita ao Laboratório de órgãos de Máquinas e Tribologia
+      speaker: Prof. José Gomes
+      type:
+      enterprise: DEM
+      enterpriseURL: http://www.dem.uminho.pt/
+      time: 
+      duration: one-hour
+      icon:
+      about: Apresentação de equipamentos de caracterização tribológica de materiais (tribómetros pino-disco, pino-placa e micro-abrasão) e de banco de ensaios para caracterização do desempenho de chumaceiras hidrodinâmicas. Exemplos de projetos com a participação do Laboratório de Órgãos de Máquinas e Tribologia.
+      place:
+    
+    - name: Visita ao Laboratório de ensaio de materiais
+      speaker: Prof. José Meireles
+      type:
+      enterprise: DEM
+      enterpriseURL: http://www.dem.uminho.pt/
+      time: 
+      duration: one-hour
+      icon:
+      about: Apresentação breve das principais capacidades experimentais do LEM; Realização de um ensaio de vibrações.
+      place:
+      
+    - name: Visita ao Pavilhão Tecnológico do Departamento de Engenharia de Polímeros
+      speaker: Prof. António Brito
+      type:
+      enterprise: DEP
+      enterpriseURL: http://www.dep.uminho.pt/
+      time: 
+      duration: one-hour
+      icon:
+      about: Apresentação da maravilha que são os materiais poliméricos e dos seus processos de transformação, com destaque para a moldação por injeção, moldação sopro e extrusão de filme tubular.
+      place:
+      
+    - name: Workshop ANSYS
+      speaker: Nuno Silva
+      type:
+      enterprise: Engineering Simulation and Scientific Software
+      enterpriseURL: https://www.esss.co/
+      time: 
+      duration: one-hour
+      icon:
+      about: Apresentação da ESSS e ANSYS; Workshop hands-on de um caso simples de Análise Estrutural; Perguntas e outras informações. A Engineering Simulation and Scientific Software (ESSS), representante ANSYS em Portugal, disponibiliza ao mercado as mais avançadas ferramentas de Computer-Aided Engineering (CAE) na área de fluido-dinâmica, análise estrutural, electromagnetismo e multifísica, para além da costumização e desenvolvimento de software sob medida de acordo com a necessidade de cada cliente. As soluções disponibilizadas pela companhia têm um papel fundamental nos projectos das empresas mais inovadoras do mundo, para fornecerem produtos radicalmente melhores e mais eficientes aos seus mais de 500 clientes nos mais diversos segmentos da indústria.
+      place:
+      
+    - name: Mecânica dos chassis de Karting
+      speaker: António Ferreira
+      type:
+      enterprise:
+      enterpriseURL: 
+      time: 
+      duration: one-hour
+      icon:
+      about: Análise ao comportamento do Chassi na sua contribuição para uma boa performance do karting em competição. Sumário, Funções dos chassis; Características; Estratégia; Afinações
+      place:
+      
+    - name: Additive Manufacturing, Vantagens
+      speaker: Andreia Nabais
+      type:
+      enterprise: Dimlaser
+      enterpriseURL: https://www.dimlaser.com/
+      time: 
+      duration: one-hour
+      icon:
+      about: Apresentação de exemplos de peças produzidos por Additive Manufacturing (3D Printing em Metal) nos diversos segmentos de Mercado.
+      place:
+      
+    - name: Simbioses Industriais e Economia Circular
+      speaker: 
+      type:
+      enterprise: CVR, LIPOR, 3Drivers, AVALER, Fibrenamics, Magellan-European Affairs Consultancy
+      enterpriseURL: 
+      time: 
+      duration: one-hour
+      icon:
+      about: 09h15-Valorização de resíduos no contexto de economia circular (André Ribeiro, CVR); 10h00-Promoção de Simbioses na Área Metropolitana do Porto (Susana Lopes, LIPOR); 10h45-Simbioses Industriais como estratégia para a Competitividade e para a Sustentabilidade (António Lorena, 3Drivers); 11h00-A valorização energética na política de resíduos na Economia Circular (Feliz Mil-Homens, AVALER); 11h15-A gestão de veículos em fim de vida (Normando Ramos); 11h30-Do Resíduo ao Produto (Débora de Neto e Lima, Fibrenamics); 11h45-Financiar a sustentabilidade (Joana Dias, Magellan-European Affairs Consultancy); 12h00-Debate
+      place: Centro para a Valorização de Resíduos 
+      
+    - name: Cerveja artesanal low-cost
+      speaker: Francisco Graça Henriques
+      type:
+      enterprise: Super Bock Group
+      enterpriseURL: https://www.superbockgroup.com/
+      time: 
+      duration: one-hour
+      icon:
+      about: Neste workshop pretende-se explorar o processo de fabricação de cerveja artesanal de alta qualidade usando apenas equipamentos habituais de uma cozinha e tudo isto a um preço low-cost.
+      place:
 
 - thursday:
   date: 18 Abril
