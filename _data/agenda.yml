@@ -308,7 +308,7 @@
       place:
       
     - name: Simbioses Industriais e Economia Circular
-      speaker: 
+      speaker: André Ribeiro, Susana Lopes, António Lorena, Feliz Mil-Homens, Normando Ramos, Débora de Neto e Lima, Joana Dias
       type:
       enterprise: CVR, LIPOR, 3Drivers, AVALER, Fibrenamics, Magellan-European Affairs Consultancy
       enterpriseURL: 
@@ -327,6 +327,17 @@
       duration: one-hour
       icon:
       about: Neste workshop pretende-se explorar o processo de fabricação de cerveja artesanal de alta qualidade usando apenas equipamentos habituais de uma cozinha e tudo isto a um preço low-cost.
+      place:
+      
+    - name: Mesa Redonda ISO 9001:2015, 3 anos depois
+      speaker: Paulo Sampaio (moderador), Rui Pimentel, Ana Monteiro, Nuno Lourinho
+      type:
+      enterprise: Leica, Q4E, SGS ICS
+      enterpriseURL: 
+      time: 
+      duration: one-hour
+      icon:
+      about: O que esta mesa pretende é fazer uma análise de 3 anos passados depois da publicação do referencial ISO 9001:2015, tendo em conta as perspectivas de diferentes partes, nomeadamente, empresas, consultores e entidades certificadoras
       place:
 
 - thursday:
