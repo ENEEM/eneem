@@ -47,7 +47,14 @@
       font-size: 0.5em;
 		}
 
-
+    .schedule-img{
+		position: relative;
+		cursor: pointer;
+		overflow: hidden;
+		width: auto ;
+  	max-width: 50% ;
+  	height: auto ;
+	}
     .activity
 		{
 			color: $light-red;
