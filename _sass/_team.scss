@@ -2,6 +2,14 @@
 .team-item:hover{
 	box-shadow: 0 25px 35px -12px rgba(0,0,0,0.35);
 }
+.team-img{
+		position: relative;
+		cursor: pointer;
+		overflow: hidden;
+		width: auto ;
+  	max-width: 100% ;
+  	height: auto ;
+	}
 .team-item{
 	margin: 15px 0;
   padding: 4px;
@@ -13,7 +21,7 @@
     -moz-transition: all 0.3s ease-in-out 0s;
     -webkit-transition: all 0.3s ease-in-out 0s;
     -o-transition: all 0.3s ease-in-out 0s;
-	.team-img{
+  .team-img{
 		position: relative;
 		cursor: pointer;
 		overflow: hidden;
