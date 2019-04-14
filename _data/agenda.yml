@@ -339,6 +339,17 @@
       icon:
       about: O que esta mesa pretende é fazer uma análise de 3 anos passados depois da publicação do referencial ISO 9001:2015, tendo em conta as perspectivas de diferentes partes, nomeadamente, empresas, consultores e entidades certificadoras
       place:
+      
+    - name: Os desafios da gestão de Gases de Exaustão na indústria automóvel, Caso prático dos Permutadores de Calor EGR
+      speaker: Ricardo Ferreira
+      type:
+      enterprise: BorgWarner
+      enterpriseURL: https://www.borgwarner.com/home
+      time: 
+      duration: one-hour
+      icon:
+      about: 
+      place:
 
 - thursday:
   date: 18 Abril
